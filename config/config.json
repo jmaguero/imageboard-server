@@ -1,0 +1,6 @@
+{
+  "development": {
+    "url": "postgres://thbwyzty:WtXIaHQ2u6v4iwzb6Rp3l1oM7MaP8cIf@tyke.db.elephantsql.com/thbwyzty",
+    "dialect": "mysql"
+  }
+}
