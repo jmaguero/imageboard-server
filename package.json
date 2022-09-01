@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "migrate": "npx sequelize-cli db:migrate"
+    "mte": "npx sequelize-cli db:migrate",
+    "undomte": "npx sequelize-cli db:migrate:undo",
+    "undomteall": "npx sequelize-cli db:migrate:undo"
   },
   "keywords": [],
   "author": "",
